@@ -1,0 +1,20 @@
+nav{
+
+  background-color:rgb(230, 204, 60);
+  padding:10px;
+
+}
+nav.n1{
+  color:aliceblue;
+  text-decoration:none;
+  padding:10px 15px;
+ 
+
+}
+nav.n1:hover{
+  background-color:beige;
+  color:black;
+  border-radius:5px;
+
+
+}

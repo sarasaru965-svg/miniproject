@@ -1,3 +1,5 @@
-public class example {
-        System.out.println("Welcome to java programming");
+
+class demo
+{
+program created for demo
 }
