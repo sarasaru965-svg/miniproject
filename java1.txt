@@ -1,0 +1,3 @@
+public class example {
+        System.out.println("Welcome to java ");
+}
