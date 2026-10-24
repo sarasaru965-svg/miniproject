@@ -1,5 +1,0 @@
-
-class demo
-{
-program created for demo
-}
